@@ -1,0 +1,83 @@
+.gambar {
+    padding: 2% 10%;
+}
+
+.gambar_about_us {
+    padding-right: 10%;
+
+}
+
+.kiri_gambar {
+    padding: 7% 7%;
+    text-align: justify;
+}
+
+/* .mirip_hr {
+    background-color: #5cb85c;
+    height: 50px;
+} */
+
+/* .alumni {
+    text-align: center;
+    padding: 5% 0;
+} */
+
+.kontak {
+    background-color: #007bff;
+    color: #fff;
+    padding: 2% 7%;
+    text-align: center;
+    margin-top: 7%;
+
+}
+
+
+/* <a> tag privacy policy */
+.privacy {
+    color: #fff;
+    margin-right: 10px;
+}
+
+
+/* About Us */
+.about_us {
+    padding: 4% 10% 6% 10%;
+}
+
+
+/* Contact Us  */
+.contact_us {
+    padding: 1% 10%;
+}
+
+.mirip_hr_contact {
+    background-color: #007bff;
+    height: 50px;
+
+}
+
+
+.maps {
+    padding: 5% 10%;
+    text-align: center;
+}
+
+/* Privasi */
+/* Content of Privacy Policy */
+.privasi {
+    padding: 1% 10%;
+    text-align: justify;
+}
+
+/* Sitemap */
+.sitemaplink {
+    color: #fff;
+}
+
+.sitemapcontent {
+    padding: 3% 80% 2% 3%;
+
+}
+
+
+
